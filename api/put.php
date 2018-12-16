@@ -1,5 +1,0 @@
-<?php 
-
-$array('nome'=>'Pessoal');
-
-?>
