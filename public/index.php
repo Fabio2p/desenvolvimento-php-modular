@@ -9,7 +9,11 @@
       * require the Route class;
       */
     require_once "../system/core/Route.php";
-
+  
+    /**
+     * Require for auto load of the class
+     */
+    require_once "../config/config.autoload.php";
     /**
      * create the object 
      */
