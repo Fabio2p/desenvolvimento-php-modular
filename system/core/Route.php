@@ -53,17 +53,17 @@ class Route{
      */
     public function run(){
         /**
-         * class the setModule method;
+         * the setModule method;
          */
         $this->setModule();
 
          /**
-         * class the setRoute method;
+         * the setRoute method;
          */
         $this->setRoute();
 
          /**
-         * class the setView method;
+         * the setView method;
          */
         $this->setView();
 
