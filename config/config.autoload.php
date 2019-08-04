@@ -24,4 +24,3 @@ function __autoload($class){
 
     endforeach;
 }
-
